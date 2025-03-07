@@ -13,7 +13,7 @@ that up every time can be a bit of a pain and is also prone to error. On top of
 this, copying and pasting old React projects means you may miss out on the most
 up-to-date React features.
 
-Fortunately, the creators of React have also set up a handy tool for rapidly
+Fortunately, the creators of React also have set up a handy tool for rapidly
 creating the barebones file structure we need for React apps. In this lesson, we
 will be discussing how to use the `create-react-app` node package to get our own
 projects off the ground.
